@@ -147,7 +147,7 @@ This page is designed for stakeholders who need a quick understanding of overall
 
 📸 **Screenshot:**
 
- ![executive summary](excutivesummary.png)
+ ![executivesummary](excutivesummary.png)
 
 ---
 
@@ -168,7 +168,7 @@ This page helps identify differences between customer segments and provides a mo
 
 📸 **Screenshot:**
 
-![Customer Segmentation](customersegmentation.png)
+![CustomerSegmentation](customersegmentation.png)
 
 ---
 
@@ -189,7 +189,7 @@ The geographic analysis helps identify customer concentration and location-based
 
 📸 **Screenshot:**
 
-![Geographic Insights](geographicinsights.png)
+![GeographicInsights](geographicinsights.png)
 
 ---
 
@@ -210,7 +210,7 @@ This page provides a deeper view of customer engagement and loyalty-related beha
 
 📸 **Screenshot:**
 
-![Support & Loyalt](supportloyalt.png)
+![SupportLoyalt](supportloyalt.png)
 
 ---
 
@@ -222,7 +222,7 @@ It provides stakeholders with a quick way to understand the most important custo
 
 📸 **Screenshot:**
 
-![Executive Summary](executivesummary.png)
+![ExecutiveSummary](executivesummary.png)
 
 ---
 
@@ -325,23 +325,23 @@ By combining these dimensions in one interactive report, stakeholders can explor
 
 ## Executive Overview
 
- ![executive summary](excutivesummary.png)
+ ![executivesummary](excutivesummary.png)
 
 ## Customer Segmentation
 
-![Customer Segmentation](customersegmentation.png)
+![customersegmentation](customersegmentation.png)
 
 ## Geographic Insights
 
-![Geographic Insights](geographicinsights.png)
+![geographicinsights](geographicinsights.png)
 
 ## Support & Loyalty
 
-![Support & Loyalt](supportloyalt.png)
+![supportloyalt](supportloyalt.png)
 
 ## Executive Summary
 
-![Executive Summary](executivesummary.png)
+![executivesummary](executivesummary.png)
 
 ---
 
