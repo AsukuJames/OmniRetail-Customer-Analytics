@@ -147,7 +147,7 @@ This page is designed for stakeholders who need a quick understanding of overall
 
 📸 **Screenshot:**
 
- ![executivesummary](excutivesummary.png)
+ ![executiveoverview](excutiveoverview.png)
 
 ---
 
