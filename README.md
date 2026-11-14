@@ -210,7 +210,7 @@ This page provides a deeper view of customer engagement and loyalty-related beha
 
 📸 **Screenshot:**
 
-![SupportLoyalt](supportloyalt.png)
+![SupportLoyalty](supportloyalty.png)
 
 ---
 
@@ -325,7 +325,7 @@ By combining these dimensions in one interactive report, stakeholders can explor
 
 ## Executive Overview
 
- ![executivesummary](excutivesummary.png)
+ ![executiveoverview](executiveoverview.png)
 
 ## Customer Segmentation
 
@@ -337,7 +337,7 @@ By combining these dimensions in one interactive report, stakeholders can explor
 
 ## Support & Loyalty
 
-![supportloyalt](supportloyalt.png)
+![supportloyalty](supportloyalty.png)
 
 ## Executive Summary
 
